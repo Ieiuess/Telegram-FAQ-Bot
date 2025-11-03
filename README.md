@@ -59,14 +59,14 @@
   </a>
 </p>
 
-## How It Works (must)
+## How It Works
 
 1. **Input or Trigger** — The automation is triggered through the Appilot dashboard, where the user sets tasks like monitoring groups, answering FAQs, or scheduling announcements on an Android device or emulator.  
 2. **Core Logic** — Appilot controls the Android session via UI Automator or ADB, navigating Telegram, detecting messages, matching intents, and performing actions like replies, buttons, and attachments.  
 3. **Output or Action** — The bot responds with the correct FAQ answer, escalates to humans when needed, and logs outcomes for analytics and improvement.  
 4. **Other functionalities** — Retry logic, error handling, structured logging, alerts, and parallel processing are configurable from the Appilot dashboard for resilience at scale.
 
-## Tech Stack (must)
+## Tech Stack
 
 - **Language:** Kotlin, Java, Python, JavaScript  
 - **Frameworks:** Appium, UI Automator, Espresso, Robot Framework, Cucumber  
@@ -136,7 +136,7 @@ telegram-faq-bot/
 
 ```
 
-## Use Cases (must)
+## Use Cases
 
 - **Community managers** use it to auto-answer onboarding questions, so they can focus on growth and events.  
 - **SaaS support teams** use it to deflect repetitive queries, so they can prioritize high-value tickets.  
@@ -171,10 +171,3 @@ They’re escalated with conversation context to moderators. These samples also 
 </a>
 </p>
 
-
-
-
-
-
-
-Chat
